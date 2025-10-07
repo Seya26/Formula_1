@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="it.unicam.cs.MDP.Formula1.VehicleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-09-15T19:09:38" hostname="DESKTOP-9FTR3CG" time="0.011">
-  <properties/>
-  <testcase name="movementTest()" classname="it.unicam.cs.MDP.Formula1.VehicleTest" time="0.004"/>
-  <testcase name="vehicleTest()" classname="it.unicam.cs.MDP.Formula1.VehicleTest" time="0.007"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
