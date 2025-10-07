@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unicam.cs.MDP.Formula1.TrackTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-09-15T19:09:38" hostname="DESKTOP-9FTR3CG" time="0.005">
+  <properties/>
+  <testcase name="finishingLineTest()" classname="it.unicam.cs.MDP.Formula1.TrackTest" time="0.001"/>
+  <testcase name="trackTest()" classname="it.unicam.cs.MDP.Formula1.TrackTest" time="0.001"/>
+  <testcase name="trackCellTypeTest()" classname="it.unicam.cs.MDP.Formula1.TrackTest" time="0.001"/>
+  <testcase name="startingLineTest()" classname="it.unicam.cs.MDP.Formula1.TrackTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
