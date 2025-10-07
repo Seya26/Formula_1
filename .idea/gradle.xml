@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/Formula_1/buildSrc" name="buildSrc">
+                <projects>
+                  <project path="$PROJECT_DIR$/Formula_1/buildSrc" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Formula_1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Formula_1" />
+            <option value="$PROJECT_DIR$/Formula_1/app" />
+            <option value="$PROJECT_DIR$/Formula_1/buildSrc" />
+            <option value="$PROJECT_DIR$/Formula_1/list" />
+            <option value="$PROJECT_DIR$/Formula_1/utilities" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
